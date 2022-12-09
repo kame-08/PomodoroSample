@@ -11,6 +11,7 @@
 		2A2246912942E0B900C5E62F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2246902942E0B900C5E62F /* ContentView.swift */; };
 		2A2246932942E0BA00C5E62F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A2246922942E0BA00C5E62F /* Assets.xcassets */; };
 		2A2246962942E0BA00C5E62F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A2246952942E0BA00C5E62F /* Preview Assets.xcassets */; };
+		2A22469D2942EAA400C5E62F /* TimerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A22469C2942EAA400C5E62F /* TimerManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2A2246902942E0B900C5E62F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2A2246922942E0BA00C5E62F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2A2246952942E0BA00C5E62F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2A22469C2942EAA400C5E62F /* TimerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2A22468E2942E0B900C5E62F /* PomodoroSampleApp.swift */,
 				2A2246902942E0B900C5E62F /* ContentView.swift */,
+				2A22469C2942EAA400C5E62F /* TimerManager.swift */,
 				2A2246922942E0BA00C5E62F /* Assets.xcassets */,
 				2A2246942942E0BA00C5E62F /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A22469D2942EAA400C5E62F /* TimerManager.swift in Sources */,
 				2A2246912942E0B900C5E62F /* ContentView.swift in Sources */,
 				2A22468F2942E0B900C5E62F /* PomodoroSampleApp.swift in Sources */,
 			);
